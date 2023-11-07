@@ -4,7 +4,7 @@ Background Context:
 The context of this project is to write a simple UNIX command interpreter.
 
 COMPILATION
-This shell can be compiled this way:
+This shell can be compiled using the gcc command bellow:
 gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
 
 TESTING:
