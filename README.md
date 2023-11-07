@@ -1,6 +1,5 @@
 THIS IS A SIMPLE SHELL GROUP PROJECT AT ALX SE AND IT IS HANDLED BY GRACE OBODO AND LUCKY NKWOR.
 
-lets see.
 Background Context:
 The context of this project is to write a simple UNIX command interpreter.
 
