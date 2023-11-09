@@ -1,6 +1,6 @@
-#include "shell.h"
+ #include "shell.h"
 /**
- * main - The entry point
+ * main - The entry point to the main function
  * Return: 0 (Success).
  */
 int main(void)
