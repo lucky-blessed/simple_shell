@@ -1,4 +1,4 @@
-#include "shell.h"
+include "shell.h"
 /**
  * gl_command_reader - Reads user input command
  * @command: The command to be interpreted
@@ -16,7 +16,7 @@ void gl_command_reader(char *command, size_t lent)
 		}
 		else
 		{
-			gl_print("The is an error reading the command");
+			gl_print("There is an error reading the command you entered");
 			exit(EXIT_FAILURE);
 		}
 	}
