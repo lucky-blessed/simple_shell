@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * gl_command_exe - Function that executes command
+ * gl_command_exe - Customized Function that executes command
  * @command: Command to be executed
  *
  * Return: void
@@ -13,7 +13,7 @@ void gl_command_exe(const char *command)
 
 	if (child_pid == -1)
 	{
-		gl_print("Error if processing.\n");
+		gl_print("Error in processing command.\n");
 		exit(EXIT_FAILURE);
 	}
 	else if (child_pid == 0)
