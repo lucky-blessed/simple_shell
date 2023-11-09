@@ -6,5 +6,5 @@
  */
 void gl_prompt(void)
 {
-	gl_print("grace_lucky_shell$ ");
+	gl_print("grace_lucky_customized_shell$ ");
 }
