@@ -30,7 +30,7 @@ void gl_command_exe(const char *command)
 		args[arg_count] = NULL;
 		/* execvp(args[0], args); */
 		execve(args[0], args, exec_env_path);
-		gl_print("Error executing command.\n");
+		gl_print("No such file or directry.\n");
 		exit(EXIT_FAILURE);
 	}
 	else
