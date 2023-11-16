@@ -34,7 +34,7 @@ $
 TASKS
 
 0. Betty would be proud:
-A beautiful code that passes the Betty checks.
+A well arranged code that passes the Betty checks.
 
 1. Simple shell 0.1:
 A UNIX command line interpreter.
