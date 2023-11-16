@@ -31,7 +31,7 @@ hsh main.c shell.c test_ls_2
 hsh main.c shell.c test_ls_2
 $
 
-TASKS
+TASK
 
 0. Betty would be proud:
 A well arranged code that passes the Betty checks.
