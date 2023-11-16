@@ -17,7 +17,7 @@ hsh main.c shell.c
 ($) exit
 $
 
-But also in a non-interactive mode:
+But also in non-interactive mode:
 
 $ echo "/bin/ls" | ./hsh
 hsh main.c shell.c test_ls_2
