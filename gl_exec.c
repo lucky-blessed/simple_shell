@@ -2,7 +2,7 @@
 /**
  * gl_cmd_exec - Grace Lucky command executor
  * @args: Argument vector
- * Return: void
+ * Return: NULL
  */
 void gl_cmd_exec(char **args)
 {
