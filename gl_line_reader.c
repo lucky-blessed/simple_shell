@@ -1,7 +1,7 @@
 #include "shell.h"
 /**
  * gl_line_reader - Get input from stdin
- * Return: User input
+ * Return: Input
  */
 char *gl_line_reader(void)
 {
