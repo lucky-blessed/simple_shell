@@ -1,6 +1,8 @@
 #ifndef SHELL_H
 #define SHELL_H
 
+#define BUFFER_SIZE 1025
+#define MAX_ARGS 25
 #include <stdio.h>
 #include <unistd.h>
 #include <string.h>
