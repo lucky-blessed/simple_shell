@@ -5,5 +5,5 @@
  */
 void gl_print(const char *word)
 {
-	write(STDOUT_FILENO, word, strlen(word));
+	write(STDERR_FILENO, word, strlen(word));
 }
