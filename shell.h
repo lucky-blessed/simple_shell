@@ -3,8 +3,9 @@
 
 #define BUFFER_SIZE 1025
 #define MAX_ARGS 25
+#define MAX_PATH 1024
 
-extern char **env;
+extern char **environ;
 
 #include <stdio.h>
 #include <unistd.h>
